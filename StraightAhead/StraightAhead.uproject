@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Straight_Ahead",
+			"Name": "StraightAhead",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

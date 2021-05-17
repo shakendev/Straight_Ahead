@@ -1,10 +1,10 @@
 {
-	"TargetName": "Straight_AheadEditor",
+	"TargetName": "StraightAheadEditor",
 	"Platform": "Mac",
 	"Configuration": "Development",
 	"TargetType": "Editor",
 	"Architecture": "x86_64",
-	"Project": "../../Straight_Ahead.uproject",
+	"Project": "../../StraightAhead.uproject",
 	"Launch": "$(EngineDir)/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor",
 	"Version": 
 	{
@@ -724,7 +724,7 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Mac/UE4Editor-Straight_Ahead.dylib",
+			"Path": "$(ProjectDir)/Binaries/Mac/UE4Editor-StraightAhead.dylib",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -2582,7 +2582,7 @@
 	],
 	"RuntimeDependencies": [
 		{
-			"Path": "$(ProjectDir)/Straight_Ahead.uproject",
+			"Path": "$(ProjectDir)/StraightAhead.uproject",
 			"Type": "UFS"
 		},
 		{
