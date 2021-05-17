@@ -1,5 +1,11 @@
 .DS_Store
-/StraightAhead/Content/*
+/StraightAhead/Content/Anim/*
+/StraightAhead/Content/Assets/*
+/StraightAhead/Content/Blueprints/*
+/StraightAhead/Content/Data/*
+/StraightAhead/Content/Maps/*
+/StraightAhead/Content/UMG/*
+
 /StraightAhead/DerivedDataCache/*
 /StraightAhead/Intermediate/*
 /StraightAhead/Saved/*
