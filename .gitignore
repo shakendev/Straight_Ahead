@@ -1,12 +1,7 @@
 .DS_Store
-/StraightAhead/Content/Anim/*
-/StraightAhead/Content/Assets/*
-/StraightAhead/Content/Blueprints/*
-/StraightAhead/Content/Data/*
-/StraightAhead/Content/Maps/*
-/StraightAhead/Content/UMG/*
 
-/StraightAhead/DerivedDataCache/*
-/StraightAhead/Intermediate/*
-/StraightAhead/Saved/*
-/StraightAhead/Straight_Ahead.xcworkspace
+/Straight_Ahead/DerivedDataCache/*
+/Straight_Ahead/Intermediate/*
+/Straight_Ahead/Saved/*
+
+/Straight_Ahead/Straight_Ahead.xcworkspace
