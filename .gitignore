@@ -1,7 +1,8 @@
 .DS_Store
 
 /Straight_Ahead/Content/Sources/*
-/Straight_Ahead/Content/FPS/LevelMaps/*
+/Straight_Ahead/Content/FPS/LevelMaps/MainMenu/*
+/Straight_Ahead/Content/FPS/LevelMaps/AlightTown/*
 
 /Straight_Ahead/DerivedDataCache/*
 /Straight_Ahead/Intermediate/*
